@@ -23,10 +23,13 @@ licensing:
   game_use: false
   voice_cloning_allowed: false
   notes: >-
-    HuskyVoiceAI is a commercial Voice AI platform for production business
-    calls. Usage is governed by HuskyVoiceAI service terms and acceptable-use
-    policies. Custom voices are available for enterprise configurations, but
-    unauthorized impersonation or cloning of real people is prohibited.
+    HuskyVoiceAI is a commercial Voice AI SaaS for production business calls.
+    Usage is governed by the Terms of Service:
+    https://www.huskyvoice.ai/terms
+    and Acceptable Use Policy:
+    https://www.huskyvoice.ai/aup
+    The AUP prohibits unauthorized voice cloning, impersonation, and deceptive
+    use of real individuals' voices.
 capabilities:
   voice_cloning: false
   multilingual: true
@@ -111,20 +114,6 @@ sources:
   voice_docs: 'https://docs.huskyvoice.ai/guide/voice-languages/text-to-speech/'    
 secondary_categories:
   - realtime_infrastructure
-
-licensing:
-  commercial_use: true
-  youtube_monetization: true
-  game_use: false
-  voice_cloning_allowed: false
-  notes: >-
-    HuskyVoiceAI is a commercial Voice AI SaaS for production business calls.
-    Usage is governed by the Terms of Service:
-    https://www.huskyvoice.ai/terms
-    and Acceptable Use Policy:
-    https://www.huskyvoice.ai/aup
-    The AUP prohibits unauthorized voice cloning, impersonation, and deceptive
-    use of real individuals' voices.
 ---
 ## Decide whether it should be your main tool
 
